@@ -1,3 +1,5 @@
+-- Data Cleaning
+
 select * from hr;
 
 ALTER TABLE hr
